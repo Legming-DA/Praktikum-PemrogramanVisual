@@ -1,0 +1,14 @@
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\alx\alx\bin\Debug\alx.exe.config
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\alx\alx\bin\Debug\alx.exe
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\alx\alx\bin\Debug\alx.pdb
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\alx\alx\bin\Debug\alx.xml
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\alx\alx\obj\Debug\alx.surur.resources
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\alx\alx\obj\Debug\alx.Resources.resources
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\alx\alx\obj\Debug\alx.vbproj.GenerateResource.Cache
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\alx\alx\obj\Debug\alx.exe
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\alx\alx\obj\Debug\alx.xml
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\alx\alx\obj\Debug\alx.pdb
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\alx\alx\obj\Debug\alx.vbprojResolveAssemblyReference.cache
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\alx\alx\obj\Debug\alx.ReportBus.resources
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\alx\alx\obj\Debug\alx.Login.resources
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\alx\alx\obj\Debug\alx.Menuuu.resources

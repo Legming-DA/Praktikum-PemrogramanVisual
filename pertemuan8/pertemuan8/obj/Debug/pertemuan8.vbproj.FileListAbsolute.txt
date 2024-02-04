@@ -1,0 +1,14 @@
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan8\pertemuan8\bin\Debug\pertemuan8.exe.config
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan8\pertemuan8\bin\Debug\pertemuan8.exe
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan8\pertemuan8\bin\Debug\pertemuan8.pdb
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan8\pertemuan8\bin\Debug\pertemuan8.xml
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan8\pertemuan8\obj\Debug\pertemuan8.Form1.resources
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan8\pertemuan8\obj\Debug\pertemuan8.Resources.resources
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan8\pertemuan8\obj\Debug\pertemuan8.vbproj.GenerateResource.Cache
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan8\pertemuan8\obj\Debug\pertemuan8.exe
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan8\pertemuan8\obj\Debug\pertemuan8.xml
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan8\pertemuan8\obj\Debug\pertemuan8.pdb
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan8\pertemuan8\obj\Debug\pertemuan8.vbprojResolveAssemblyReference.cache
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan8\pertemuan8\obj\Debug\pertemuan8.FormCRMahasiswa.resources
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan8\pertemuan8\obj\Debug\pertemuan8.TUGAS8_2118118.resources
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan8\pertemuan8\obj\Debug\pertemuan8.ReportPakaian.resources

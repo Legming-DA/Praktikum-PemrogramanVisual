@@ -1,0 +1,10 @@
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\asis\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\asis\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\asis\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\asis\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\asis\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\asis\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\asis\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\asis\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\asis\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\asis\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

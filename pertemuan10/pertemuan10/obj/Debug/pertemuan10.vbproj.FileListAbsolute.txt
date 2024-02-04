@@ -1,0 +1,15 @@
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan10\pertemuan10\bin\Debug\pertemuan10.exe.config
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan10\pertemuan10\obj\Debug\pertemuan10.Form1.resources
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan10\pertemuan10\obj\Debug\pertemuan10.Form2.resources
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan10\pertemuan10\obj\Debug\pertemuan10.Form3.resources
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan10\pertemuan10\obj\Debug\pertemuan10.Resources.resources
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan10\pertemuan10\obj\Debug\pertemuan10.vbproj.GenerateResource.Cache
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan10\pertemuan10\bin\Debug\pertemuan10.exe
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan10\pertemuan10\bin\Debug\pertemuan10.pdb
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan10\pertemuan10\bin\Debug\pertemuan10.xml
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan10\pertemuan10\obj\Debug\pertemuan10.exe
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan10\pertemuan10\obj\Debug\pertemuan10.xml
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan10\pertemuan10\obj\Debug\pertemuan10.pdb
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan10\pertemuan10\obj\Debug\pertemuan10.Menuu.resources
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan10\pertemuan10\obj\Debug\pertemuan10.TUGAS10_2118118.resources
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan10\pertemuan10\obj\Debug\pertemuan10.vbprojResolveAssemblyReference.cache

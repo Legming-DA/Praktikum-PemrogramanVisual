@@ -1,0 +1,15 @@
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan3\pertemuan3\pertemuan3\bin\Debug\pertemuan3.exe.config
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan3\pertemuan3\pertemuan3\bin\Debug\pertemuan3.exe
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan3\pertemuan3\pertemuan3\bin\Debug\pertemuan3.pdb
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan3\pertemuan3\pertemuan3\bin\Debug\pertemuan3.xml
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan3\pertemuan3\pertemuan3\obj\Debug\pertemuan3.Form1.resources
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan3\pertemuan3\pertemuan3\obj\Debug\pertemuan3.Resources.resources
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan3\pertemuan3\pertemuan3\obj\Debug\pertemuan3.vbproj.GenerateResource.Cache
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan3\pertemuan3\pertemuan3\obj\Debug\pertemuan3.exe
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan3\pertemuan3\pertemuan3\obj\Debug\pertemuan3.xml
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan3\pertemuan3\pertemuan3\obj\Debug\pertemuan3.pdb
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan3\pertemuan3\pertemuan3\obj\Debug\pertemuan3.Form2.resources
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan3\pertemuan3\pertemuan3\obj\Debug\pertemuan3.Form3.resources
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan3\pertemuan3\pertemuan3\obj\Debug\pertemuan3.Form4.resources
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan3\pertemuan3\pertemuan3\obj\Debug\pertemuan3.TUGAS3.resources
+D:\KULIAH\2118118\Semester 4 (2223)\Pemrograman Visual\Praktikum\Project Praktikum\pertemuan3\pertemuan3\pertemuan3\obj\Debug\pertemuan3.vbprojResolveAssemblyReference.cache
